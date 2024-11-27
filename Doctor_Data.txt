@@ -1,0 +1,36 @@
+Doctor Name: Mary
+Doctor Age: 73
+Doctor Address: asdfd
+Doctor Phone: askdfhk
+Doctor Email: mary@gmai.com
+Doctor Password: 123
+Doctor Name: carl
+Doctor Age: 88
+Doctor Address: asdfl
+Doctor Phone: asdfk
+Doctor Email: carl@gm
+Doctor Password: asdf
+Doctor Name: bobby
+Doctor Age: 88
+Doctor Address: asdf
+Doctor Phone: asdf
+Doctor Email: belly@gmail
+Doctor Password: bbb
+Doctor Name: babyjoe
+Doctor Age: 3
+Doctor Address: asdf
+Doctor Phone: asd
+Doctor Email: babyjoe@gmail.com
+Doctor Password: asdf
+Doctor Name: Benjamin
+Doctor Age: 45
+Doctor Address: 88 road
+Doctor Phone: 888888
+Doctor Email: benjamindoc@gmail.com
+Doctor Password: doctor
+Doctor Name: joseph peters
+Doctor Age: 56
+Doctor Address: 88 avenue
+Doctor Phone: 92347777
+Doctor Email: josephp@gmail.com
+Doctor Password: doctor

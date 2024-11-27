@@ -1,0 +1,14 @@
+Patient Name: Cameron
+Patient Email: cameron@gmail.com
+Condition: bacpain
+Appointment Date: 02/01/23
+Status: PENDING APPROVAL
+Doctor: Not Assigned
+Appointment_Number: 2569
+Patient Name: bob
+Patient Email: bob18@gmail.com
+Condition: joint pain
+Appointment Date: 05/04/24
+Status: APPROVED
+Doctor: josephp@gmail.com
+Appointment_Number: 589
